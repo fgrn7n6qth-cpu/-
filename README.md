@@ -35,15 +35,7 @@ Java와 Spring Boot를 중심으로 웹 서비스를 개발하고 있으며,
 - Frontend: React, HTML, CSS, JavaScript
 - Database: MySQL
 
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fgrn7n6qth-cpu&show_icons=true&theme=default&hide_border=true)
-
-## Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fgrn7n6qth-cpu&layout=compact&theme=default&hide_border=true)
-
-
 ## Contact
 
 - GitHub: [https://github.com/fgrn7n6qth-cpu](https://github.com/fgrn7n6qth-cpu)
+
