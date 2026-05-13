@@ -12,7 +12,6 @@ Java와 Spring Boot를 중심으로 웹 서비스를 개발하고 있으며,
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat-square&logo=fastapi&logoColor=white)
-logoColor=white)
 
 ### Frontend
 
