@@ -24,12 +24,15 @@ Java와 Spring Boot를 중심으로 웹 서비스를 개발하고 있으며,
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-## Projects
+## Projects git
 
-### Room Planner
+### 개인 프로젝트
 
-공간 배치와 인테리어 구성을 도와주는 원룸 배치 웹 서비스입니다.  
-사용자가 원룸 크기를 선택하고, 가구를 배치한 뒤 2D/3D 화면에서 결과를 확인할 수 있도록 구현했습니다.
+https://github.com/fgrn7n6qth-cpu/my-one-room
+
+### 팀 프로젝트 
+
+https://github.com/gaebarja99/game-matching-platform
 
 
 ## 프로젝트 PPT
